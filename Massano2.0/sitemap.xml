@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--
+    IMPORTANTE:
+    Troque SEU-DOMINIO-AQUI pelo domínio real quando você tiver (ex: https://massanoassessoria.com.br)
+  -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
