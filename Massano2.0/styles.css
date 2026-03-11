@@ -1413,6 +1413,11 @@ footer .border-t {
     to { transform: rotate(360deg); }
 }
 
+@keyframes pulse-pin {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(201,163,75,0.5); }
+    50% { box-shadow: 0 0 0 8px rgba(201,163,75,0); }
+}
+
 /* ===== RESPONSIVIDADE ===== */
 @media (max-width: 1024px) {
     .header-shell {
